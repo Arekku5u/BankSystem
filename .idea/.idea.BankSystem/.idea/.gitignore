@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.BankSystem.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\.idea\.idea.BankSystem\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

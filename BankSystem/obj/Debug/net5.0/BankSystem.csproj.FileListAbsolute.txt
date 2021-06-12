@@ -1,0 +1,32 @@
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.exe
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.deps.json
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.runtimeconfig.json
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.runtimeconfig.dev.json
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\ref\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.pdb
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.csprojAssemblyReference.cache
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.AssemblyInfo.cs
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\ref\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.pdb
+C:\Users\halla\Desktop\OOP\Week 6\Task6.2p\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.genruntimeconfig.cache
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.exe
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.deps.json
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.runtimeconfig.json
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.runtimeconfig.dev.json
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\ref\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.pdb
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.csprojAssemblyReference.cache
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.AssemblyInfo.cs
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\ref\BankSystem.dll
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.pdb
+C:\Users\halla\Desktop\OOP\Week 7\Task 7.1\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.genruntimeconfig.cache
